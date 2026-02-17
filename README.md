@@ -1,7 +1,5 @@
-<img src="https://github.com/user-attachments/assets/15d9955e-6f0f-4eb8-94d2-30dd41a530be"
-     alt="MovieCoServe Logo"
-     width="500"
-/>
+<img width="512" height="128" alt="123" src="https://github.com/user-attachments/assets/0f075565-3c54-4a37-bc89-f37faaaca4e1" />
+
 <!-- PROJECT LOGO -->
 <div align="center">
 
@@ -95,6 +93,7 @@ moviecoserve/
 
 
 ---
+
 
 
 
