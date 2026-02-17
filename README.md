@@ -1,4 +1,7 @@
-<img width="256" height="64" alt="Add a heading" src="https://github.com/user-attachments/assets/15d9955e-6f0f-4eb8-94d2-30dd41a530be" />
+<img src="https://github.com/user-attachments/assets/15d9955e-6f0f-4eb8-94d2-30dd41a530be"
+     alt="MovieCoServe Logo"
+     width="500"
+/>
 <!-- PROJECT LOGO -->
 <div align="center">
 
@@ -92,5 +95,6 @@ moviecoserve/
 
 
 ---
+
 
 
