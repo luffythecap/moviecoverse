@@ -1,6 +1,7 @@
+<img width="256" height="64" alt="Add a heading" src="https://github.com/user-attachments/assets/15d9955e-6f0f-4eb8-94d2-30dd41a530be" />
 <!-- PROJECT LOGO -->
 <div align="center">
-<img width="256" height="64" alt="Add a heading" src="https://github.com/user-attachments/assets/15d9955e-6f0f-4eb8-94d2-30dd41a530be" />
+
 # 🎬 MovieCoServe
 
 ### 🚀 A Modern Movie Streaming & Showcase Platform
@@ -91,4 +92,5 @@ moviecoserve/
 
 
 ---
+
 
