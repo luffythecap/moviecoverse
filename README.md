@@ -1,4 +1,4 @@
-<img width="512" height="128" alt="123" src="https://github.com/user-attachments/assets/0f075565-3c54-4a37-bc89-f37faaaca4e1" />
+<img width="1024" height="256" alt="Moviecoserve" src="https://github.com/user-attachments/assets/34bc373e-8cbc-41ad-b91f-1c6b3aadb581" />
 
 <!-- PROJECT LOGO -->
 <div align="center">
@@ -93,6 +93,7 @@ moviecoserve/
 
 
 ---
+
 
 
 
