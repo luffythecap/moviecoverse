@@ -1,16 +1,20 @@
 <img width="1024" height="256" alt="Moviecoserve" src="https://github.com/user-attachments/assets/34bc373e-8cbc-41ad-b91f-1c6b3aadb581" />
 
 <!-- PROJECT LOGO -->
+
 <div align="center">
 
-# 🎬 MovieCoServe
+# 💧 MoviEcoServe
 
-### 🚀 A Modern Movie Streaming & Showcase Platform
+### 🚀 A Smart Water Treatment & Management Platform
+
+
+💡 *Delivering clean, safe, and sustainable water solutions with modern technology.*
+
 
 🌐 **Live Website:**  
 👉 https://moviecoserve.netlify.app/
 
-💡 *Experience movies with smooth UI, high-quality visuals, and optimized performance.*
 
 ---
 
@@ -22,55 +26,53 @@
 </div>
 
 ---
-
 ## 📖 About The Project
 
-**MovieCoServe** is a stylish and responsive movie streaming website that allows users to explore and enjoy movie content in an immersive environment.
+**MoviEcoServe** is a modern and responsive water treatment plant website designed to showcase water purification processes, environmental sustainability, and operational efficiency.
 
 It focuses on:
 
-✔️ Speed  
-✔️ Performance  
-✔️ Clean UI  
-✔️ Smooth Navigation  
-✔️ High Visual Quality  
+✔️ Clean Water Solutions  
+✔️ Environmental Safety  
+✔️ Smart Monitoring  
+✔️ High Performance  
+✔️ User-Friendly Interface  
 
-Designed for movie lovers and portfolio showcase.
+Built for industries, municipalities, and environmental organizations.
 
 ---
 
 ## 📸 Website Preview
 
-> 🎥 A modern movie platform with dynamic visuals and responsive layout.
+> 💦 A professional water treatment platform with clean UI and process visualization.
 
-(Add screenshots here if you want later)
+(Add screenshots here later)
 
 ---
 
 ## ✨ Key Features
 
 ✅ Fully Responsive (Mobile / Tablet / Desktop)  
-✅ HD Video Support  
-✅ Clean User Interface  
-✅ Optimized Media Files  
+✅ Water Treatment Process Overview  
+✅ Clean & Modern UI  
+✅ Optimized Performance  
 ✅ Smooth Animations  
-✅ Fast Page Loading  
 ✅ SEO Friendly  
 ✅ Deployed on Netlify  
 
 ---
 
-## 🛠️ Built With
 
 | Technology | Usage |
 |------------|--------|
 | ⚛️ React.js | Frontend Framework |
-| 🎨 CSS / Tailwind | Styling |
-| 📜 JavaScript | Logic |
+| 🎨 Tailwind CSS | Styling |
+| 📜 JavaScript | Application Logic |
 | 🌐 Netlify | Hosting |
 | 🗂️ GitHub | Version Control |
 
 ---
+
 
 ## 📁 Folder Structure
 moviecoserve/
@@ -93,6 +95,7 @@ moviecoserve/
 
 
 ---
+
 
 
 
